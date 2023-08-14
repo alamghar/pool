@@ -1,1 +1,1 @@
-git log -n5 --format=%H
+git log -n5 --format=%H 
